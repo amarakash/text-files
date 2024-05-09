@@ -6,3 +6,6 @@ here 45 is a port number.
 
 Theh server will open on that folder for the specified port.
 Go to a web browser and type localhost:4545 to view the webpage
+
+
+Open vs code to forward that port.
